@@ -1,0 +1,25 @@
+film
+boisson
+laque
+Arôme
+jus
+pomme
+lait
+café
+jus d ’ orange
+jus de pomme
+orange
+égouts
+diode
+hospitalier
+bouton
+réservoir
+produit
+verre
+solutions
+solution
+PRODUIT
+substance
+nourriture
+voyant
+absorbeur
