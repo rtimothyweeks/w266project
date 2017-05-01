@@ -1,5 +1,5 @@
 # w266project
-- QUAERO_BioC: Raw QUAERO French Medical Corpus
+- QUAERO_BioC: Raw QUAERO French Medical Corpus - https://quaerofrenchmed.limsi.fr/
 - medical-ner: git clone of https://github.com/withtwist/medical-ner/
 - rnn-ner: refactored code to allow for Tensorflow updates
 - seedlists: generated seedlists for QUAERO targets
